@@ -1,0 +1,70 @@
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Environnements virtuels
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers de données
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Fichiers UNV temporaires
+UNW_Storage/
+*.unv.zip
+
+# Fichiers générés automatiquement
+qlik_script_*.qvs
+tables_detected.txt
+fields_detected.txt
+*.log
+
+# Fichiers de configuration locaux
+config.ini
+settings.json
+.env.local
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*.tmp 
